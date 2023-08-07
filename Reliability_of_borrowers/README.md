@@ -1,5 +1,6 @@
 # Исследование надежности заемщиков
 
+[reliability_of_borrowers.ipynb](reliability_of_borrowers.ipynb)
 
 ## Описание проекта
 
